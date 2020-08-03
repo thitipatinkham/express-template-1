@@ -1,4 +1,4 @@
-name: deploy-cloudrun dockerHub
+name: Create and push Docker Image to DockerHub
 
 on:
   push:
