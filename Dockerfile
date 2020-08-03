@@ -18,4 +18,4 @@ COPY . ./
 # ENTRYPOINT ["node"] 
 
 # Run the web service on container startup.
-CMD [ "node", "index.js" ]
+CMD [ "node", "app.js" ]
